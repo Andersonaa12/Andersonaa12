@@ -79,14 +79,3 @@ Estoy constantemente buscando formas de aprender y mejorar mis habilidades. ¡No
 </a>  
 </div>  
   
-
-<br/>  
-
-## 📈 Estadisticas GitHub  
-<div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andersonaa12&show_icons=true&locale=en&theme=tokyonight" align="center"/>
-</div> 
-
-<div style="background-color: black; color= white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andersonaa12&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" />
-</div> 
